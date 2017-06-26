@@ -60,3 +60,7 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'simple_form'
 #Use Devise Gem
 gem 'devise'
+# Use CarrierWave Gem
+gem 'carrierwave', '~> 1.0'
+gem "figaro"
+gem "fog-aws"
